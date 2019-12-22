@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SB-RESTAPI-CLIENT
+Implementation-Version: 1.0.0
+Built-By: ubaid.rehman
+Implementation-Vendor-Id: com.ubaidsample.springboot
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://github.com/ShahbazHaroon/SB-RESTAPI-CLIENT
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
